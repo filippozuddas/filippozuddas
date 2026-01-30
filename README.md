@@ -1,11 +1,10 @@
 # 💫 About Me:
 - 🎓 Applied Computer Science and Data Analytics student  
 - 🧠 Interested in ML/DL, cybersecurity and CTFs
-- 💻 Learning by building practical projects and experimenting with code  
 
 ## Currently working on
 
-- Developing a deep learning approach for technosignature search, for an internship at the Cagliari Astronomical Observatory and SETI program
+- Developing a deep learning pipeline for technosignature search, for an internship at the Cagliari Astronomical Observatory and SETI program
 - Improving my knowledge and skills for CTFs (binary exploitation)  
 
 # 💻 Tech Stack:
