@@ -1,10 +1,10 @@
 # About Me:
-- Applied Computer Science and Data Analytics student  
+- Master's student in Computer Engineering, Cybersecurity and Artificial Intelligence at the University of Cagliari  
 - Interested in ML/DL, cybersecurity and CTFs
 
 ## Currently working on
 
-- Developing a deep learning pipeline for technosignature search, for an internship at the Cagliari Astronomical Observatory and SETI program
+- Developing an unsupervised anomaly detection pipeline for technosignature search, in collaboration with Breakthrough Listen - SETI
 - Improving my knowledge and skills for CTFs (binary exploitation)  
 
 # Tech Stack:
